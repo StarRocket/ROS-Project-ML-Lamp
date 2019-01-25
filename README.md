@@ -51,7 +51,12 @@
 
 
 ## 課程媒體紀錄
+
 1. [打造具電腦視覺的開源機器檯燈（專案分享）](https://drive.google.com/drive/folders/13Zu2P2muZ6F7yVUOZC1a40xxykI7lU1w?usp=sharing)
 2. [數位製造實作機械檯燈（軟硬體製造工作坊）](https://drive.google.com/drive/folders/13hABmwSHrmRw65oZ3sIIZYikB9FssZes?usp=sharing)
 3. [實作 ROS 系統控制機械檯燈（系統實作工作坊）](https://drive.google.com/drive/folders/13l7FY5eHdHnEyY1vZGLrxONoYcGc_Iqc?usp=sharing)
 4. [機器檯燈製作相關照片](https://drive.google.com/drive/folders/13Y1jZvzGz0hGm8d2QDbjfr8cbufnoOGL?usp=sharing)
+
+## 關於本文件
+
+本文由 Star Rocket 三創育成基金會整理分享，採用[姓名標示-相同方式分享 4.0 國際 (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh_TW)授權。
